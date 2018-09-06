@@ -4,5 +4,11 @@
   ],
   "confirmations": [
     { "id": 1, "code": 1234, "number": "0000000000" }
+  ],
+  "informations": [
+    { "id": 1, "firstname": "firstname", "lastname": "lastname", "phone": "0000000000", "passport"
+  ],
+  "pins": [
+     { "id": 1, "number": "00000000", "pin": "1234" }
   ]
 }
