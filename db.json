@@ -13,5 +13,34 @@
   ],
   "pins": [
      { "id": 1, "number": "00000000", "pin": "1234" }
+  ],
+  "account": {
+    "balance": 3000
+  },
+  "activities": [
+    {
+      "type": "pay",
+      "status": "progress",
+      "date": "1536673794",
+      "amount": "534"
+    },
+    {
+      "type": "withdraw",
+      "status": "done",
+      "date": "1536673794",
+      "amount": "534"
+    },
+    {
+      "type": "topup",
+      "status": "failed",
+      "date": "1536673794",
+      "amount": "534"
+    },
+    {
+      "type": "transfer",
+      "status": "done",
+      "date": "1536673794",
+      "amount": "534"
+    }
   ]
 }
